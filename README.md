@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a cat health tracker app<br>🌱 I’m currently learning Mantine Component Library<br>💬 Ask me about React & CSS
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayakarh) ![X](https://img.shields.io/twitter/follow/daya_codes?logo=x)
+🔭 I’m currently working on a finance tracker app<br>🌱 I’m currently learning RSC & Next 14 App Router<br>💬 Ask me about React & CSS
 
 
 # 💻 Tech Stack:
